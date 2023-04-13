@@ -32,12 +32,4 @@ public class FlowerModel {
         this.price = price;
     }
 
-    @Override
-    public String toString() {
-        return "FlowerModel{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", price=" + price +
-                '}';
-    }
 }
